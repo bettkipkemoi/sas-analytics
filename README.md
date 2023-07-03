@@ -1,5 +1,4 @@
 # sas-analytics
-## Run the codes to obtain the respective graphical output/results. If stuck, reach out to me: kbett945@gmail.com
 
 The aim of this study was to investigate the weight loss after three different diets. Please create a new variable called weightlost, which represents the difference between weight before the diet treatment and the weight after 6 weeks of diet treatment. Furthermore, the researcher thinks that a weight loss of more than 5 kg is considered an effective response to the diet treatment. Please create another variable called wlostcat, which has two levels: effective if the weight loss is larger than 5kg; noeffective if the weight loss is smaller or equal than 5kg. Provide a screenshot of the data in SAS.
 Output:
